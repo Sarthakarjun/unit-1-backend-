@@ -1,0 +1,6 @@
+1|Sarthak|AI desiner|400000
+2|Aryan|UI desiner|200000
+3|vishal |Front end developer|300000
+4|utsav|Back end developer|30000
+5|prashant |manager|600000
+7|Sarthak|UI desiner|80000
